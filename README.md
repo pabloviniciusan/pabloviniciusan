@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pablo Vinícius e estou cursando Análise e Desenvolvimento de Sistemas 👋
+### Olá! Eu sou o Pablo Vinícius e estou estudando programação 👋
 ---
  <div>
    <a href="https://github.com/pabloviniciusan">
